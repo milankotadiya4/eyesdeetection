@@ -1,4 +1,4 @@
-# eyesdeetection
+# eyes detection
 Welcome to my github directory, As we will see in this article, we will be using the popular library OpenCV to detect eyes and faces. Hey Folks, I'm sure you've had to go through many authentication phases in which your face is detected, mostly for safety reasons. We find a feature called Face Detection in smartphones that detects faces automatically while clicking, editing, or locking. The faces are also detected by CCTV, 3D trail applications, etc.
 
 
